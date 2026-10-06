@@ -21,3 +21,5 @@ Clean data matters more than flashy charts, and a good dashboard answers questio
 Feedback
 
 I'm still growing as an analyst. Suggestions and critiques are very welcome.
+
+<img width="1558" height="662" alt="Vindra" src="https://github.com/user-attachments/assets/cf6235cb-f9f1-449b-9796-654c908df108" />
